@@ -27,4 +27,9 @@ height: 450px;
 .container img:hover {
     width: 25%;
 }
+a {
+    color: white;
 }
+a{
+    text-align: left;
+}}
